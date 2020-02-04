@@ -4,16 +4,20 @@ Respostas da questẽos propostas
 ## Cássio Moreira Silva
 
 1. Desenvolva os casos de testes a partir das Stories apresentadas abaixo, descrevendo ao menos um cenário feliz e um cenário alternativo para cada uma das Stories.
+  
   *001**
+
 001 - Como a "pessoa física" gostaria de realizar o cadastro na loja:
 
 Descrição: Realizar cadastro de uma pessoa física na plataforma de vendas web da Saraiva.
 
 Pre-requisitos:
+
 1 - Acesso: https://www.saraiva.com.br
 2 - CPF válido.
 
 Cenário de teste
+
 1 - Acessar a página da Saraiva pela URL: https://www.saraiva.com.br e validar que o endereço é válido.
 1 - Página carregada com sucesso, com as corres amarelo e preto.
 
@@ -27,7 +31,6 @@ Cenário de teste
 4 - Nova página de cadastro acessada com sucesso, com as corres amarelo e preto.
 5 - Selecionar "Pessoa Física" na opção de pessoa PF ou PJ.
 5 -  Validado com sucesso, campos exibidos de pessoa PF.
-
 
 6 - No campo de "Nome" preencher com nome válido ou com mais de 2 caracteres, sem números ou caracteres especias.
 6 - Preenchido com sucesso.
@@ -105,10 +108,12 @@ Cenário de teste
 Descrição: Realizar uma busca e comprar um determinado produto (livro digital) na loja com um perfil de pessoa física.
 
 Pre-requisitos:
+
 1 - Acesso: https://www.saraiva.com.br
 2 - Estar logado com uma pessoa física.
 
-Cenário de teste
+Cenário de teste:
+
 1 - Acessar a página da Saraiva pela URL: https://www.saraiva.com.br e validar que o endereço é válido.
 1 - Página carregada com sucesso.
 
